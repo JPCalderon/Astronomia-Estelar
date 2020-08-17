@@ -3,7 +3,7 @@ Prácticas de Astronomía Estelar - UNLP
 
 Práctica 00 -- Introducción a las imágenes astronómicas (ex-IRAF)
 
-Práctica 01 -- 
+Práctica 01 -- Introducción a las bases de la Astronomía Estelar
 
 Práctica 02 -- 
 
