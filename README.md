@@ -5,26 +5,23 @@ Práctica 00 -- Introducción a las imágenes astronómicas (ex-IRAF)
 
 Práctica 01 -- Introducción a las bases de la Astronomía Estelar
 
-Práctica 02 -- 
+Práctica 02 -- El sistema astronómico de magnitudes y colores
 
-Práctica 03 -- 
+Práctica 03 -- Efectos de la atmósfera terrestre sobre la radiación que llega del espacio
 
-Práctica 04 -- 
+Práctica 04 -- Efecto del material interestelar 
 
-Práctica 05 -- 
+Práctica 05 -- Clasificación espectral I 
 
-Práctica 06 -- 
+Práctica 06 -- Clasificación espectral II
 
-Práctica 07 -- 
+Práctica 07 -- Velocidades radiales
 
-Práctica 08 -- 
+Práctica 08 -- El diagrama de Hertzsprung-Russell
 
-Práctica 09 -- 
+Práctica 09 -- Curva de luz de delta Cephei
 
 TODO
 
--Probar de instalar ALTAIR mediante:
-https://altair-viz.github.io/user_guide/display_frontends.html#display-notebook
-
-- Subir el Manual-CONDA
+-- Subir el Manual-CONDA
 
