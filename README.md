@@ -23,5 +23,8 @@ Práctica 09 -- Curva de luz de delta Cephei
 
 TODO
 
+-- El entorno creado con conda-pack se puede descargar de:
+http://fcaglp.unlp.edu.ar/~jpcalderon/materias/Astronomia_Estelar/conda/
+
 -- Subir el Manual-CONDA
 
