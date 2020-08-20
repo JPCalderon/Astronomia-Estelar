@@ -1,0 +1,17 @@
+name: null
+channels:
+  - http://astroconda.gemini.edu/public
+  - http://ssb.stsci.edu/astroconda
+  - defaults
+dependencies:
+  - conda-pack
+  - matplotlib
+  - notebook
+  - photutils
+  - imexam
+  - astroquery
+  - pandas
+  - python=3.7
+  - astropy
+  - specutils
+prefix: /home/juanpablo/materias/Astronomia-Estelar/.conda/envs/AEpracticas
