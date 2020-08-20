@@ -21,7 +21,7 @@ Práctica 08 -- El diagrama de Hertzsprung-Russell
 
 Práctica 09 -- Curva de luz de delta Cephei
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JPCalderon/Astronomia-Estelar/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JPCalderon/Astronomia-Estelar.git/master)
 
 TODO
 
