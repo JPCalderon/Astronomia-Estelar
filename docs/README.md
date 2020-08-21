@@ -25,7 +25,7 @@ Una vez hecho lo anterior, y cada vez que quieran trabajar con la prácticas, de
 ```
     $ source ~/materias/Astronomia-Estelar/conda/envs/AEpracticas/bin/activate
 ```
-El quivalente al comando anterior en Windows es:
+El equivalente al comando anterior en Windows es:
 
 ```
     $ conda\envs\AEpracticas\Scripts\activate.bat
