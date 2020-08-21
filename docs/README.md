@@ -54,6 +54,7 @@ vamos a volver a la primer clase.
     wget https://raw.githubusercontent.com/JPCalderon/Astronomia-Estelar/master/docs/Tutorial_notebook.ipynb
     wget https://raw.githubusercontent.com/JPCalderon/Astronomia-Estelar/master/docs/investigadores-2007.csv
     wget https://raw.githubusercontent.com/JPCalderon/Astronomia-Estelar/master/docs/investigadores-2019.csv
+    wget https://github.com/JPCalderon/Astronomia-Estelar/raw/master/docs/es_todo_por_hoy.jpg
 ```
 
 y abran el _notebook_ en el navegador con el siguiente comando:
