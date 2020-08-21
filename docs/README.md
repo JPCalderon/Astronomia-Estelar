@@ -27,7 +27,7 @@ Una vez hecho lo anterior, y cada vez que quieran trabajar con la prácticas, de
 ```
 
 El comando ```source```, es nativo de Linux y simplemente ejecuta las variables de entorno que estan dentro del archivo 
-```activate```. El prompt de la terminal cambiará a algo de este estilo:
+```activate```. El _prompt_ de la terminal cambiará a algo de este estilo:
  
 ```
      (AEpracticas) usuarix@maquina: ̃/materias/Astronomia_Estelar
