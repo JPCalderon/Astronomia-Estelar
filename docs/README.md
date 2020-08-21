@@ -30,7 +30,7 @@ El comando ```source```, es nativo de Linux y simplemente ejecuta las variables 
 ```activate```. El prompt de la terminal cambiará a algo de este estilo:
  
 ```
-    (AEpracticas) usuarix@maquina: ̃/materias/Astronomia_Estelar
+     (AEpracticas) usuarix@maquina: ̃/materias/Astronomia_Estelar
 ```
 
 Lo que indica que se puede empezar a utilizar CONDA y _jupyter-notebook_.
@@ -45,15 +45,15 @@ vamos a volver a la primer clase.
   **Les propongo que** descarguen el _notebook_ del tutorial y las tablas de datos:
   
 ```
-  wget https://raw.githubusercontent.com/JPCalderon/Astronomia-Estelar/master/docs/Tutorial_notebook.ipynb
-  wget https://raw.githubusercontent.com/JPCalderon/Astronomia-Estelar/master/docs/investigadores-2007.csv
-  wget https://raw.githubusercontent.com/JPCalderon/Astronomia-Estelar/master/docs/investigadores-2019.csv
+    wget https://raw.githubusercontent.com/JPCalderon/Astronomia-Estelar/master/docs/Tutorial_notebook.ipynb
+    wget https://raw.githubusercontent.com/JPCalderon/Astronomia-Estelar/master/docs/investigadores-2007.csv
+    wget https://raw.githubusercontent.com/JPCalderon/Astronomia-Estelar/master/docs/investigadores-2019.csv
 ```
 
 y abran el _notebook_ en el navegador con el siguiente comando:
 
 ```
-  (AEpracticas) usuarix@maquina: ̃/materias/Astronomia_Estelar$ jupyter-notebook Tutorial_notebook.ipynb 
+    (AEpracticas) usuarix@maquina: ̃/materias/Astronomia_Estelar$ jupyter-notebook Tutorial_notebook.ipynb 
 ```
 
 Si al final de todo ven un gatito ya es un montón. Pueden empezar a jugar, y ejecutar cada celda para experimentar
