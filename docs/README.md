@@ -25,7 +25,13 @@ Una vez hecho lo anterior, y cada vez que quieran trabajar con la prácticas, de
 ```
     $ source ~/materias/Astronomia-Estelar/conda/envs/AEpracticas/bin/activate
 ```
+El quivalente al comando anterior en Windows es:
 
+```
+    $ conda\envs\AEpracticas\Scripts\activate.bat
+```
+que se ejecuta en una consola de DOS.
+    
 El comando ```source```, es nativo de Linux y simplemente ejecuta las variables de entorno que estan dentro del archivo 
 ```activate```. El _prompt_ de la terminal cambiará a algo de este estilo:
  
