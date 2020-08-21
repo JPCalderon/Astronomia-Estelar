@@ -40,7 +40,7 @@ directamente en un nevagador web. El archivo [**Tutorial_notebook.ipynb**](https
 que contiene las herramientas básicas del lenguaje como para empezar a trabajar.
 Al acceder al _notebook_ desde github, ustedes ven un _render_ de lo que verian en el navegador
 local (en su computadora cuando esten trabajando). En github no lo pueden ejecutar. A esto
-vamos a volver a la primera clase.
+vamos a volver a la primer clase.
 
   **Les propongo que** descarguen el _notebook_ del tutorial y las tablas de datos:
   
@@ -55,6 +55,10 @@ y abran el _notebook_ en el navegador con el siguiente comando:
 ```
   (AEpracticas) usuarix@maquina: ̃/materias/Astronomia_Estelar$ jupyter-notebook Tutorial_notebook.ipynb 
 ```
+
+Si al final de todo ven un gatito ya es un montón. Pueden empezar a jugar, y ejecutar cada celda para experimentar
+cómo funciona. Lo retomamos en la primer clase.
+
 
 
 
