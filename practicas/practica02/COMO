@@ -1,0 +1,6 @@
+conda create -y -n AEpractica02 python=3.7 pandas matplotlib astropy scipy
+
+conda activate /home/juanpablo/materias/Astronomia-Estelar/practicas/practica02/.conda/envs/AEpractica02
+conda env export --name AEpractica02 > environment.yml
+
+ conda env remove --name AEpractica02
