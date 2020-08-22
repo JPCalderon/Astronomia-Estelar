@@ -67,7 +67,10 @@ Si al final de todo ven un gatito ya es un montón. Pueden empezar a jugar, y ej
 cómo funciona. Lo retomamos en la primer clase.
 
 ---
-Si quieren, pueden usar la siguiente herramienta _on-line_ para probar el tutorial. Haciendo click en este botón: 
+También pueden usar [Binder](https://mybinder.org/), una herramienta _on-line_ para probar el tutorial. 
+Haciendo click en el botón de abajo accederán a un entorno que les permite ejecutar cada celda de código 
+y visualizar el resultado. Será muy parecido a lo que vean localmente, cuando ejecuten CONDA en su propia
+computadora.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JPCalderon/Astronomia-Estelar/master?filepath=docs%2FTutorial_notebook.ipynb)
-Accederan a un entorno dentro de [Binder](https://mybinder.org/) que les permite ejecutar cada celda de código y visualizar el resultado.
 
