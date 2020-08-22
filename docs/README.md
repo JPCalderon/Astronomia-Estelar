@@ -66,6 +66,8 @@ y abran el _notebook_ en el navegador con el siguiente comando:
 Si al final de todo ven un gatito ya es un montón. Pueden empezar a jugar, y ejecutar cada celda para experimentar
 cómo funciona. Lo retomamos en la primer clase.
 
-
-
+---
+Si quieren, pueden usar la siguiente herramienta _on-line_ para probar el tutorial. Haciendo click en este botón: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JPCalderon/Astronomia-Estelar/master?filepath=docs%2FTutorial_notebook.ipynb)
+Accederan a un entorno dentro de [Binder](https://mybinder.org/) que les permite ejecutar cada celda de código y visualizar el resultado.
 
