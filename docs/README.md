@@ -73,4 +73,4 @@ y visualizar el resultado. Será muy parecido a lo que vean localmente, cuando e
 computadora.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JPCalderon/Astronomia-Estelar/master?filepath=docs%2FTutorial_notebook.ipynb)
-
+(Puede tardar uno minutos en cargar :/)
