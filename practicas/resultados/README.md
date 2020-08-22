@@ -1,3 +1,3 @@
-# Soluciones
+# Resultados
 
 *Próximamente*
