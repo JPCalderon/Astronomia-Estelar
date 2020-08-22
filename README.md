@@ -6,7 +6,7 @@ separados en diferentes prácticas.
 ### Listado de las prácticas
 
 - ~~**Práctica 00:** Introducción a IRAF~~
-- **Tutorial jupyter-notebook** 
+- **Tutorial:** [jupyter-notebook](docs/Tutorial_notebook.ipynb)
 - **Práctica 01:** [Introducción a las bases de la Astronomía Estelar](practicas/practica01/)
 - **Práctica 02:** [El sistema astronómico de  magnitudes y colores](practicas/practica02/)
 - **Práctica 03:** [Efectos de la atmósfera terrestre sobre la radiación que llega del espacio](practicas/practica03/)
