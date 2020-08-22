@@ -3,7 +3,7 @@
 En estos directorios encontrarán los ejercicios propuestos,
 separados en diferentes prácticas.
 
-## Listado de las prácticas
+### Listado de las prácticas
 - ~~**Práctica 00:** Introducción a IRAF~~
 - **Práctica 01:** Introducción a las bases de la Astronomía Estelar
 - **Práctica 02:** El sistema astronómico de  magnitudes y colores
