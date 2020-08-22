@@ -7,7 +7,7 @@ separados en diferentes prácticas.
 
 - ~~**Práctica 00:** Introducción a IRAF~~
 - **Tutorial jupyter-notebook** 
-- **Práctica 01:** Introducción a las bases de la Astronomía Estelar
+- **Práctica 01:** [Introducción a las bases de la Astronomía Estelar](practicas/practica01/)
 - **Práctica 02:** El sistema astronómico de  magnitudes y colores
 - **Práctica 03:** Efectos de la atmósfera terrestre sobre la radiación que llega del espacio
 - **Práctica 04:** Efecto del material interestelar 
