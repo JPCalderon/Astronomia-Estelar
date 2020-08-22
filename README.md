@@ -1,6 +1,6 @@
 # Bienvenides al repositorio de **prácticas** de Astronomía Estelar
 
-En estos directorios encontrarán los ejericicios propuestos,
+En estos directorios encontrarán los ejercicios propuestos,
 separados en diferentes prácticas.
 
 ## Listado de las prácticas
