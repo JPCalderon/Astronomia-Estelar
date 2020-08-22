@@ -16,3 +16,8 @@ separados en diferentes prácticas.
 - **Práctica 07:** [Velocidades radiales](practicas/practica07/)
 - **Práctica 08:** [El diagrama de Hertzsprung-Russell](practicas/practica08/)
 - **Práctica 09:** [Curva de luz de delta Cephei](practicas/practica09/) 
+
+### ¿Por dónde empezar?
+Pueden arrancar leyendo las instrucciones de instalación [aquí](docs/README.md). 
+Jugar con el [tutorial](docs/Tutorial_notebook.ipynb), y probar esta herramienta _on-line_
+para ejecutar el tutorial sin instalar nada. 
