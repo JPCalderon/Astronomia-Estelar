@@ -17,3 +17,10 @@
 - **Herramientas _on-line_ de visualización de _notebooks_**
   * [nbviewer](https://nbviewer.jupyter.org/)
   * [Binder](https://mybinder.org/)
+  
+- **Observatorio Astronómico GEMINI**
+  * [The Gemini Observatory](http://www.gemini.edu/)
+  * [Oficina GEMINI Argentina](https://www.argentina.gob.ar/ciencia/sact/gemini-argentina)
+
+- **Instituciones Argentinas**
+  * [Ministerio de Ciencia, Tecnología e Innovación](https://www.argentina.gob.ar/ciencia)
