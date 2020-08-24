@@ -24,4 +24,4 @@ para ejecutarlo sin instalar nada: [![Binder](https://mybinder.org/badge_logo.sv
 minutos de inactividad se desactiva.
 
 ### Enlaces útiles
-Les dejo algunos enlaces que pueden resultar útiles [aquí](dosc/LINKS.md).
+Les dejo algunos enlaces que pueden resultar útiles [aquí](docs/LINKS.md).
