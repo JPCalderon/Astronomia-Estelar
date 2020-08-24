@@ -70,7 +70,8 @@ cómo funciona. Lo retomamos en la primer clase.
 También pueden usar [Binder](https://mybinder.org/), una herramienta _on-line_ para probar el tutorial. 
 Haciendo click en el botón de abajo accederán a un entorno que les permite ejecutar cada celda de código 
 y visualizar el resultado. Será muy parecido a lo que vean localmente, cuando ejecuten CONDA en su propia
-computadora.
+computadora. Tengan en cuenta que en Binder, ninguna modificación puede guardarse, y luego de unos
+minutos de inactividad se desactiva.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JPCalderon/Astronomia-Estelar/master?filepath=docs%2FTutorial_notebook.ipynb)
 (Puede tardar unos minutos en cargar :/)
