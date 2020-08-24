@@ -25,3 +25,9 @@
 - **Instituciones Argentinas**
   * [Ministerio de Ciencia, Tecnología e Innovación](https://www.argentina.gob.ar/ciencia)
   * [Biblioteca Electrónica de Ciencia y Tecnología](https://www.biblioteca.mincyt.gob.ar/)
+
+- **Bases de datos y buscadores de artículos**
+  * [ADS](https://ui.adsabs.harvard.edu/)
+  * [arXiv](https://arxiv.org/archive/astro-ph)
+  * [VizieR](http://vizier.u-strasbg.fr/)
+  * [SIMBAD](http://simbad.u-strasbg.fr/simbad/)
