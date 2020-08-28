@@ -27,7 +27,7 @@
   * [Biblioteca Electrónica de Ciencia y Tecnología](https://www.biblioteca.mincyt.gob.ar/)
 
 - **Bases de datos y buscadores de artículos**
-  * [ADS](https://ui.adsabs.harvard.edu/)
+  * [ADS](https://ui.adsabs.harvard.edu/) (Astrophysics Data System)
   * [arXiv](https://arxiv.org/archive/astro-ph)
   * [VizieR](http://vizier.u-strasbg.fr/)
   * [SIMBAD](http://simbad.u-strasbg.fr/simbad/)
