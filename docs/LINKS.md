@@ -30,4 +30,4 @@
   * [ADS](https://ui.adsabs.harvard.edu/) (Astrophysics Data System)
   * [arXiv](https://arxiv.org/archive/astro-ph)
   * [VizieR](http://vizier.u-strasbg.fr/)
-  * [SIMBAD](http://simbad.u-strasbg.fr/simbad/)
+  * [SIMBAD](http://simbad.u-strasbg.fr/simbad/) (Set of Indications, Measurements, and Bibliography for Astronomical Data)
