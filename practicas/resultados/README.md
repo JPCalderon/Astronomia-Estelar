@@ -1,3 +1,0 @@
-# Resultados
-
-*Próximamente*
