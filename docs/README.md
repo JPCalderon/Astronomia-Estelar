@@ -18,12 +18,13 @@ Por favor, hagan lo siguiente:
    
 Con esto, logran descargar el paquete que armamos con lo necesario de CONDA en su computadora y descomprimirlo en una
 carpeta específica. **Se hace una única vez**. Noten que tienen que decargar el _tar.gz_ correspondiente a su Sistema Operativo 
-(Linux o Windows) y arquitectura (32 bits o 64 bits). A medida que surga la necesidad, voy agregando los paquetes [aquí](http://fcaglp.unlp.edu.ar/~jpcalderon/materias/Astronomia_Estelar/conda/).
+(Linux o Windows) y arquitectura (32 bits o 64 bits). A medida que surja la necesidad, voy agregando los paquetes [aquí](http://fcaglp.unlp.edu.ar/~jpcalderon/materias/Astronomia_Estelar/conda/).
 
 Una vez hecho lo anterior, y cada vez que quieran trabajar con la prácticas, deberán inicializar CONDA con lo siguiente:
 
 ```
     $ source ~/materias/Astronomia-Estelar/conda/envs/AEpracticas/bin/activate
+    $ conda-unpack
 ```
 El equivalente al comando anterior en Windows es:
 
@@ -70,8 +71,7 @@ cómo funciona. Lo retomamos en la primer clase.
 También pueden usar [Binder](https://mybinder.org/), una herramienta _on-line_ para probar el tutorial. 
 Haciendo click en el botón de abajo accederán a un entorno que les permite ejecutar cada celda de código 
 y visualizar el resultado. Será muy parecido a lo que vean localmente, cuando ejecuten CONDA en su propia
-computadora. Tengan en cuenta que en Binder, ninguna modificación puede guardarse, y luego de unos
-minutos de inactividad se desactiva.
+computadora.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JPCalderon/Astronomia-Estelar/master?filepath=docs%2FTutorial_notebook.ipynb)
 (Puede tardar unos minutos en cargar :/)
