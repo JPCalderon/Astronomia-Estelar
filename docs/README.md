@@ -1,7 +1,7 @@
 # Instrucciones de instalación
 
 Hola! 
-esta página contiene instrucciones para instalar jupyter-notebook en un entorno CONDA, para poder utilizar python directamente en un navegador. 
+esta página contiene instrucciones para instalar **jupyter-notebook** en un entorno **CONDA**, para poder utilizar *python* directamente en un navegador. 
 
 ### ¿Qué vas a necesitar?
 
@@ -12,18 +12,100 @@ esta página contiene instrucciones para instalar jupyter-notebook en un entorno
 1- Descargar el entorno *Anaconda*, que permite mantener un sistema de archivos dentro de un mismo ambiente sin interferir en el resto del sistema operativo: https://www.anaconda.com/products/individual#windows
 
 <div>
-<p style = 'text-align:center;'>
-<img src="figures/Windows-1.PNG" alt="1-" width="500px">
+<p align="center">
+<img src="figures/Windows-1.PNG"  width="500px"/>
 </p>
 </div>
 
 2- Ejecutar el instalador
 
 <div>
-<p style = 'text-align:center;'>
-<img src="figures/Windows-2.PNG" alt="2-" width="500px">
+<p align="center">
+<img src="figures/Windows-2.PNG" width="500px"/>
 </p>
 </div>
+
+<div>
+<p align="center">
+<img src="figures/Windows-3.PNG" width="500px"/>
+</p>
+</div>
+
+<div>
+<p align="center">
+<img src="figures/Windows-4.PNG"  width="500px"/>
+</p>
+</div>
+
+<div>
+<p align="center">
+<img src="figures/Windows-5.PNG"  width="500px"/>
+</p>
+</div>
+
+<div>
+<p align="center">
+<img src="figures/Windows-6.PNG"  width="500px"/>
+</p>
+</div>
+
+<div>
+<p align="center">
+<img src="figures/Windows-7.PNG"  width="500px"/>
+</p>
+</div>
+
+3- Ahora, busquen dentro de los programas instalados, ANACONDA NAVIGATOR:
+<div>
+<p align="center">
+<img src="figures/Windows-8.PNG"  width="500px"/>
+</p>
+</div>
+
+<div>
+<p align="center">
+<img src="figures/Windows-9.PNG"  width="500px"/>
+</p>
+</div>
+
+3- Creen un nuevo entorno usando el boton *create*, ubicado abajo a la izquierda:
+
+<div>
+<p align="center">
+<img src="figures/Windows-10.PNG"  width="500px"/>
+</p>
+</div>
+
+4- Agreguen un nuevo **canal**:
+
+<div>
+<p align="center">
+<img src="figures/Windows-11.PNG"  width="500px"/>
+</p>
+</div>
+
+5- Los canales que vamos a utilizar son: **astropy**, y **conda-forge**
+<div>
+<p align="center">
+<img src="figures/Windows-12.PNG"  width="500px"/>
+</p>
+</div>
+
+<div>
+<p align="center">
+<img src="figures/Windows-13.PNG"  width="500px"/>
+</p>
+</div>
+
+<div>
+<p align="center">
+<img src="figures/Windows-14.PNG"  width="500px"/>
+</p>
+</div>
+
+
+
+
 
 Esta página contiene los tutoriales que armamos para introducir al manejo de *python*
 mediante *jupyter-notebook*.
