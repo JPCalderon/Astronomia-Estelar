@@ -103,9 +103,35 @@ esta página contiene instrucciones para instalar **jupyter-notebook** en un ent
 </p>
 </div>
 
+6- Ahora viene la parte de instalación de paquetes. Indicando todos los paquetes disponibles,
+comiencen a marcar los siguientes: matplotlib, pandas, astropy, specutils, lmfit, jupyter. Al finalizar,
+apliquen los cambios con el botón **apply**, ubicado abajo a la derecha:
 
+<div>
+<p align="center">
+<img src="figures/Windows-15.PNG"  width="500px"/>
+</p>
+</div>
 
+<div>
+<p align="center">
+<img src="figures/Windows-15-apply.PNG"  width="500px"/>
+</p>
+</div>
 
+7- Ahora vuelvan a la solapa **HOME**. Verán que ahora esta en el ambiente **AEpracticas**, y clickeen el icono jupyter
+
+<div>
+<p align="center">
+<img src="figures/Windows-16.PNG"  width="500px"/>
+</p>
+</div>
+
+<div>
+<p align="center">
+<img src="figures/Windows-17.PNG"  width="500px"/>
+</p>
+</div>
 
 Esta página contiene los tutoriales que armamos para introducir al manejo de *python*
 mediante *jupyter-notebook*.
