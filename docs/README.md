@@ -9,6 +9,15 @@ esta página contiene instrucciones para instalar **jupyter-notebook** en un ent
 - Un poco de paciencia
 
 ### Aquí va la receta
+
+Vamos a separar el procedimiento en dos etapas:
+
+  A- Descarga e instalación de anaconda
+  
+  
+  B- Prueba de el tutorial inicial de la cátedra
+
+#### A.  Descarga e instalación de anaconda
 1- Descargar el entorno *Anaconda*, que permite mantener un sistema de archivos dentro de un mismo ambiente sin interferir en el resto del sistema operativo: https://www.anaconda.com/products/individual#windows
 
 <div>
@@ -133,8 +142,10 @@ apliquen los cambios con el botón **apply**, ubicado abajo a la derecha:
 </p>
 </div>
 
-9- Ahora vamos a hacer una prueba.
-Descarguen el primer tutorial de la cátedra: [tutorial](https://github.com/JPCalderon/Astronomia-Estelar/blob/master/docs/Tutorial_notebook.zip)
+
+#### B- Prueba de el tutorial inicial de la cátedra
+
+1- Ahora vamos a hacer una prueba. Descarguen el primer tutorial de la cátedra: [tutorial](https://github.com/JPCalderon/Astronomia-Estelar/blob/master/docs/Tutorial_notebook.zip), y descomprimanlo. 
 
 <div>
 <p align="center">
@@ -147,6 +158,9 @@ Descarguen el primer tutorial de la cátedra: [tutorial](https://github.com/JPCa
 <img src="figures/Windows-20.PNG"  width="800px"/>
 </p>
 </div>
+
+2- Ahora, en la ventana de jupyter, busquen la carpeta que acaban de crear y seleccionen el archivo de extesion **ipynb**,
+este corresponde al **notebook** del tutorial.
 
 <div>
 <p align="center">
