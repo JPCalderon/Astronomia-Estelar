@@ -1,13 +1,14 @@
 # Instrucciones de instalación
 
-Hola! esta página contiene instrucciones para instalar jupyter-notebook en un entorno CONDA, para poder utilizar python directamente en un navegador. 
+Hola! 
+esta página contiene instrucciones para instalar jupyter-notebook en un entorno CONDA, para poder utilizar python directamente en un navegador. 
 
-# ¿Qué vas a necesitar?
+### ¿Qué vas a necesitar?
 
 - Vas a necesitar una PC/notebook con Windows y al menos 3Gb de espacio libre.
 - Un poco de paciencia
 
-# Aquí va la receta
+### Aquí va la receta
 1- Descargar el entorno *Anaconda*, que permite mantener un sistema de archivos dentro de un mismo ambiente sin interferir en el resto del sistema operativo: https://www.anaconda.com/products/individual#windows
 
 
