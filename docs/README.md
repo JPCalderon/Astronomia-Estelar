@@ -133,6 +133,40 @@ apliquen los cambios con el botón **apply**, ubicado abajo a la derecha:
 </p>
 </div>
 
+8- Ahora vamos a hacer una prueba.
+Descarguen el primer tutorial de la cátedra: LINK
+
+<div>
+<p align="center">
+<img src="figures/Windows-18.PNG"  width="500px"/>
+</p>
+</div>
+
+<div>
+<p align="center">
+<img src="figures/Windows-19.PNG"  width="500px"/>
+</p>
+</div>
+
+<div>
+<p align="center">
+<img src="figures/Windows-20.PNG"  width="500px"/>
+</p>
+</div>
+
+<div>
+<p align="center">
+<img src="figures/Windows-21.PNG"  width="500px"/>
+</p>
+</div>
+
+<div>
+<p align="center">
+<img src="figures/Windows-22.PNG"  width="500px"/>
+</p>
+</div>
+
+
 Esta página contiene los tutoriales que armamos para introducir al manejo de *python*
 mediante *jupyter-notebook*.
 
