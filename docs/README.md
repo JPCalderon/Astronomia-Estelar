@@ -11,9 +11,19 @@ esta página contiene instrucciones para instalar jupyter-notebook en un entorno
 ### Aquí va la receta
 1- Descargar el entorno *Anaconda*, que permite mantener un sistema de archivos dentro de un mismo ambiente sin interferir en el resto del sistema operativo: https://www.anaconda.com/products/individual#windows
 
+<div>
+<p style = 'text-align:center;'>
+<img src="figures/Windows-1.PNG" alt="1-" width="500px">
+</p>
+</div>
 
+2- Ejecutar el instalador
 
-
+<div>
+<p style = 'text-align:center;'>
+<img src="figures/Windows-2.PNG" alt="2-" width="500px">
+</p>
+</div>
 
 Esta página contiene los tutoriales que armamos para introducir al manejo de *python*
 mediante *jupyter-notebook*.
