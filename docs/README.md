@@ -68,7 +68,7 @@ esta página contiene instrucciones para instalar **jupyter-notebook** en un ent
 </p>
 </div>
 
-3- Creen un nuevo entorno usando el boton *create*, ubicado abajo a la izquierda:
+4- Creen un nuevo entorno usando el boton *create*, ubicado abajo a la izquierda:
 
 <div>
 <p align="center">
@@ -76,7 +76,7 @@ esta página contiene instrucciones para instalar **jupyter-notebook** en un ent
 </p>
 </div>
 
-4- Agreguen un nuevo **canal**:
+5- Agreguen un nuevo **canal**:
 
 <div>
 <p align="center">
@@ -84,7 +84,7 @@ esta página contiene instrucciones para instalar **jupyter-notebook** en un ent
 </p>
 </div>
 
-5- Los canales que vamos a utilizar son: **astropy** y **conda-forge**
+6- Los canales que vamos a utilizar son: **astropy** y **conda-forge**
 <div>
 <p align="center">
 <img src="figures/Windows-12.PNG"  width="800px"/>
@@ -103,7 +103,7 @@ esta página contiene instrucciones para instalar **jupyter-notebook** en un ent
 </p>
 </div>
 
-6- Ahora viene la parte de instalación de paquetes. Indicando todos los paquetes disponibles (**all**),
+7- Ahora viene la parte de instalación de paquetes. Indicando todos los paquetes disponibles (**all**),
 comiencen a marcar los siguientes: matplotlib, pandas, astropy, specutils, lmfit, jupyter. Al finalizar,
 apliquen los cambios con el botón **apply**, ubicado abajo a la derecha:
 
@@ -119,7 +119,7 @@ apliquen los cambios con el botón **apply**, ubicado abajo a la derecha:
 </p>
 </div>
 
-7- Ahora vuelvan a la solapa **HOME**. Verán que ahora esta en el ambiente **AEpracticas**, y clickeen el icono jupyter
+8- Ahora vuelvan a la solapa **HOME**. Verán que ahora esta en el ambiente **AEpracticas**, y clickeen el icono jupyter
 
 <div>
 <p align="center">
@@ -133,36 +133,30 @@ apliquen los cambios con el botón **apply**, ubicado abajo a la derecha:
 </p>
 </div>
 
-8- Ahora vamos a hacer una prueba.
+9- Ahora vamos a hacer una prueba.
 Descarguen el primer tutorial de la cátedra: [tutorial](https://github.com/JPCalderon/Astronomia-Estelar/blob/master/docs/Tutorial_notebook.zip)
 
 <div>
 <p align="center">
-<img src="figures/Windows-18.PNG"  width="500px"/>
+<img src="figures/Windows-19.PNG"  width="800px"/>
 </p>
 </div>
 
 <div>
 <p align="center">
-<img src="figures/Windows-19.PNG"  width="500px"/>
+<img src="figures/Windows-20.PNG"  width="800px"/>
 </p>
 </div>
 
 <div>
 <p align="center">
-<img src="figures/Windows-20.PNG"  width="500px"/>
+<img src="figures/Windows-21.PNG"  width="800px"/>
 </p>
 </div>
 
 <div>
 <p align="center">
-<img src="figures/Windows-21.PNG"  width="500px"/>
-</p>
-</div>
-
-<div>
-<p align="center">
-<img src="figures/Windows-22.PNG"  width="500px"/>
+<img src="figures/Windows-22.PNG"  width="800px"/>
 </p>
 </div>
 
