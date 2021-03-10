@@ -143,7 +143,7 @@ apliquen los cambios con el botón **apply**, ubicado abajo a la derecha:
 </div>
 
 
-#### B- Prueba de el tutorial inicial de la cátedra
+#### B- Prueba del tutorial inicial de la cátedra
 
 1- Ahora vamos a hacer una prueba. Descarguen el primer tutorial de la cátedra: [tutorial](https://github.com/JPCalderon/Astronomia-Estelar/blob/master/docs/Tutorial_notebook.zip), y descomprimanlo. 
 
