@@ -13,7 +13,7 @@ esta página contiene instrucciones para instalar **jupyter-notebook** en un ent
 
 <div>
 <p align="center">
-<img src="figures/Windows-1.PNG"  width="500px"/>
+<img src="figures/Windows-1.PNG"  width="800px"/>
 </p>
 </div>
 
@@ -55,7 +55,7 @@ esta página contiene instrucciones para instalar **jupyter-notebook** en un ent
 </p>
 </div>
 
-3- Ahora, busquen dentro de los programas instalados, ANACONDA NAVIGATOR:
+3- Ahora, busquen dentro de los programas instalados, el programa **anaconda navigator**:
 <div>
 <p align="center">
 <img src="figures/Windows-8.PNG"  width="500px"/>
@@ -64,7 +64,7 @@ esta página contiene instrucciones para instalar **jupyter-notebook** en un ent
 
 <div>
 <p align="center">
-<img src="figures/Windows-9.PNG"  width="500px"/>
+<img src="figures/Windows-9.PNG"  width="800px"/>
 </p>
 </div>
 
@@ -72,7 +72,7 @@ esta página contiene instrucciones para instalar **jupyter-notebook** en un ent
 
 <div>
 <p align="center">
-<img src="figures/Windows-10.PNG"  width="500px"/>
+<img src="figures/Windows-10.PNG"  width="800px"/>
 </p>
 </div>
 
@@ -84,38 +84,38 @@ esta página contiene instrucciones para instalar **jupyter-notebook** en un ent
 </p>
 </div>
 
-5- Los canales que vamos a utilizar son: **astropy**, y **conda-forge**
+5- Los canales que vamos a utilizar son: **astropy** y **conda-forge**
 <div>
 <p align="center">
-<img src="figures/Windows-12.PNG"  width="500px"/>
+<img src="figures/Windows-12.PNG"  width="800px"/>
 </p>
 </div>
 
 <div>
 <p align="center">
-<img src="figures/Windows-13.PNG"  width="500px"/>
+<img src="figures/Windows-13.PNG"  width="800px"/>
 </p>
 </div>
 
 <div>
 <p align="center">
-<img src="figures/Windows-14.PNG"  width="500px"/>
+<img src="figures/Windows-14.PNG"  width="800px"/>
 </p>
 </div>
 
-6- Ahora viene la parte de instalación de paquetes. Indicando todos los paquetes disponibles,
+6- Ahora viene la parte de instalación de paquetes. Indicando todos los paquetes disponibles (**all**),
 comiencen a marcar los siguientes: matplotlib, pandas, astropy, specutils, lmfit, jupyter. Al finalizar,
 apliquen los cambios con el botón **apply**, ubicado abajo a la derecha:
 
 <div>
 <p align="center">
-<img src="figures/Windows-15.PNG"  width="500px"/>
+<img src="figures/Windows-15.PNG"  width="800px"/>
 </p>
 </div>
 
 <div>
 <p align="center">
-<img src="figures/Windows-15-apply.PNG"  width="500px"/>
+<img src="figures/Windows-15-apply.PNG"  width="800px"/>
 </p>
 </div>
 
@@ -123,18 +123,18 @@ apliquen los cambios con el botón **apply**, ubicado abajo a la derecha:
 
 <div>
 <p align="center">
-<img src="figures/Windows-16.PNG"  width="500px"/>
+<img src="figures/Windows-16.PNG"  width="800px"/>
 </p>
 </div>
 
 <div>
 <p align="center">
-<img src="figures/Windows-17.PNG"  width="500px"/>
+<img src="figures/Windows-17.PNG"  width="800px"/>
 </p>
 </div>
 
 8- Ahora vamos a hacer una prueba.
-Descarguen el primer tutorial de la cátedra: LINK
+Descarguen el primer tutorial de la cátedra: [tutorial](https://github.com/JPCalderon/Astronomia-Estelar/blob/master/docs/Tutorial_notebook.zip)
 
 <div>
 <p align="center">
