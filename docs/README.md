@@ -15,7 +15,7 @@ Vamos a separar el procedimiento en dos etapas:
   A- Descarga e instalación de anaconda
   
   
-  B- Prueba de el tutorial inicial de la cátedra
+  B- Prueba del tutorial inicial de la cátedra
 
 #### A.  Descarga e instalación de anaconda
 1- Descargar el entorno *Anaconda*, que permite mantener un sistema de archivos dentro de un mismo ambiente sin interferir en el resto del sistema operativo: https://www.anaconda.com/products/individual#windows
