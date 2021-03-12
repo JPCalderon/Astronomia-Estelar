@@ -1,7 +1,8 @@
 ## Configuración del entorno de trabajo
 
-Esta parte de la instalación, si hace mediante el **anaconda navigator**, es igual para todos los sistemas operativos
+Esta parte de la instalación, si se hace mediante el **anaconda navigator**, es igual para todos los sistemas operativos:
 
+1- Ubicar la solapa **Environments**
 
 <div>
 <p align="center">
@@ -9,7 +10,7 @@ Esta parte de la instalación, si hace mediante el **anaconda navigator**, es ig
 </p>
 </div>
 
-4- Creen un nuevo entorno usando el boton *create*, ubicado abajo a la izquierda:
+2- Creen un nuevo entorno usando el boton *create*, ubicado abajo a la izquierda:
 
 <div>
 <p align="center">
@@ -17,7 +18,7 @@ Esta parte de la instalación, si hace mediante el **anaconda navigator**, es ig
 </p>
 </div>
 
-5- Agreguen un nuevo **canal**:
+3- Agreguen un nuevo **Channels**:
 
 <div>
 <p align="center">
@@ -25,7 +26,7 @@ Esta parte de la instalación, si hace mediante el **anaconda navigator**, es ig
 </p>
 </div>
 
-6- Los canales que vamos a utilizar son: **astropy** y **conda-forge**
+4- Los canales que vamos a utilizar son: **astropy** y **conda-forge**
 <div>
 <p align="center">
 <img src="figures/Windows-12.PNG"  width="800px"/>
@@ -44,7 +45,7 @@ Esta parte de la instalación, si hace mediante el **anaconda navigator**, es ig
 </p>
 </div>
 
-7- Ahora viene la parte de instalación de paquetes. Indicando todos los paquetes disponibles (**all**),
+5- Ahora viene la parte de instalación de paquetes. Indicando todos los paquetes disponibles (**all**),
 comiencen a marcar los siguientes: matplotlib, pandas, astropy, specutils, lmfit, jupyter. Al finalizar,
 apliquen los cambios con el botón **apply**, ubicado abajo a la derecha:
 
@@ -60,7 +61,7 @@ apliquen los cambios con el botón **apply**, ubicado abajo a la derecha:
 </p>
 </div>
 
-8- Ahora vuelvan a la solapa **HOME**. Verán que ahora esta en el ambiente **AEpracticas**, y clickeen el icono jupyter
+6- Ahora vuelvan a la solapa **HOME**. Verán que ahora esta en el ambiente **AEpracticas**, y clickeen el icono jupyter
 
 <div>
 <p align="center">
