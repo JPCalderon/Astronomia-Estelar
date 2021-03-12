@@ -76,3 +76,7 @@ apliquen los cambios con el botón **apply**, ubicado abajo a la derecha:
 <img src="figures/Windows-17.PNG"  width="800px"/>
 </p>
 </div>
+
+---
+
+Ahora podemos continuar con el tutorial de prueba que preparamos: [siguiente](instalacion-tutorial.md)
