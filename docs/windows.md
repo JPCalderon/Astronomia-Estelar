@@ -58,3 +58,7 @@
 <img src="figures/Windows-23.PNG"  width="800px"/>
 </p>
 </div>
+
+---
+
+Ahora continuar con la configuración del entorno: [siguiente](configuracion-entorno.md)
