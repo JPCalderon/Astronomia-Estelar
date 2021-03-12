@@ -1,4 +1,4 @@
-## Instalación en GNU/LINUX
+## Parte 1: Instalación en GNU/LINUX
 
 1- Descargar el entorno Anaconda, que permite mantener un sistema de archivos dentro de un mismo ambiente sin interferir en el resto del sistema operativo: https://www.anaconda.com/products/individual#linux
 
