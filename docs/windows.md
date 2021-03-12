@@ -61,4 +61,4 @@
 
 ---
 
-Ahora continuar con la configuración del entorno: [siguiente](configuracion-entorno.md)
+Ahora podemos continuar con la configuración del entorno: [siguiente](configuracion-entorno.md)
