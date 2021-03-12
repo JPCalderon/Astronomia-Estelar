@@ -29,3 +29,4 @@ este corresponde al **notebook** del tutorial.
 </p>
 </div>
 
+Listo! Si todo lo anterior funcionó significa que tienen **jupyter-notebook** funcionando.
