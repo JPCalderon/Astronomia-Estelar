@@ -17,7 +17,7 @@ Vamos a separar el procedimiento en dos etapas:
    * [Linux](instalacion-linux.md)
    * [Windows](instalacion-windows.md)
 
-   * [FCAGLP](instalacion-fcaglp.md)
+   * [FCAGLP](instalacion-fcaglp.md) (Instrucciones para usar la Sala Informatizada en forma remota)
 
   Parte 2- Prueba del tutorial inicial de la cátedra
   
