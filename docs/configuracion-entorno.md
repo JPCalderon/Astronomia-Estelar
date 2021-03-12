@@ -1,4 +1,4 @@
-## Configuración del entorno de trabajo
+## Parte 2: Configuración del entorno de trabajo
 
 Esta parte de la instalación, si se hace mediante el **anaconda navigator**, es igual para todos los sistemas operativos:
 
