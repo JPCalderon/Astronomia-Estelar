@@ -30,6 +30,7 @@ Los siguientes comandos (3- a 5-) se ejecutan por unica vez:
 </p>
 </div>
 
+Pueden encontrar mas información sobre la instalacion aquí: https://docs.anaconda.com/anaconda/install/linux/
 ---
 
 Ahora podemos continuar con la configuración del entorno: [siguiente](instalacion-configuracion.md)
