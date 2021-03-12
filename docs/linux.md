@@ -22,6 +22,14 @@ Los siguientes comandos (3- a 5-) se ejecutan por unica vez:
 
 5- Configurar conda para que no inicie cada vez que se abre una terminal: ```conda init && conda config --set auto_activate_base False```
 
+6- Abrir una terminal nueva y ejecutar: ```conda activate && anaconda-navigator```
+
+<div>
+<p align="center">
+<img src="figures/Linux-2.PNG"  width="800px"/>
+</p>
+</div>
+
 ---
 
-6- Abrir una terminal nueva y ejecutar: ```conda activate && anaconda-navigator```
+Ahora podemos continuar con la configuración del entorno: [siguiente](configuracion-entorno.md)
