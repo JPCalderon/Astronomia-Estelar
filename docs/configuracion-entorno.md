@@ -10,7 +10,7 @@ Esta parte de la instalación, si se hace mediante el **anaconda navigator**, es
 </p>
 </div>
 
-2- Creen un nuevo entorno usando el boton *create*, ubicado abajo a la izquierda:
+2- Creen un nuevo entorno usando el boton *create*, ubicado abajo a la izquierda. Pueden llamar al entorno **AEpracticas**:
 
 <div>
 <p align="center">
