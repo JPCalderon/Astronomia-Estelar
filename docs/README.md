@@ -1,21 +1,21 @@
 # Instrucciones de instalación
 
 Hola! 
-esta página contiene instrucciones para instalar **jupyter-notebook** en un entorno **CONDA**, para poder utilizar *python* directamente en un navegador. 
+esta página contiene instrucciones para instalar **jupyter-notebook** en un entorno **CONDA**, con el objeto de utilizar *python* directamente en un navegador. 
 
 ### ¿Qué vas a necesitar?
 
-- Vas a necesitar una PC/notebook con Windows y al menos 3Gb de espacio libre.
+- Vas a necesitar una PC/notebook con Windows/Linux y al menos 3Gb de espacio libre.
 - Un poco de paciencia
 
 ### Aquí va la receta
 
 Vamos a separar el procedimiento en dos etapas:
 
-  A- Descarga e instalación de anaconda
+  Parte 1- Descarga e instalación de anaconda
   
   
-  B- Prueba del tutorial inicial de la cátedra
+  Parte 2- Prueba del tutorial inicial de la cátedra
 
 #### A.  Descarga e instalación de anaconda
 1- Descargar el entorno *Anaconda*, que permite mantener un sistema de archivos dentro de un mismo ambiente sin interferir en el resto del sistema operativo: https://www.anaconda.com/products/individual#windows
@@ -142,35 +142,4 @@ apliquen los cambios con el botón **apply**, ubicado abajo a la derecha:
 </p>
 </div>
 
-
-#### B- Prueba del tutorial inicial de la cátedra
-
-1- Ahora vamos a hacer una prueba. Descarguen el primer tutorial de la cátedra: [tutorial](https://github.com/JPCalderon/Astronomia-Estelar/blob/master/docs/Tutorial_notebook.zip), y descomprimanlo. 
-
-<div>
-<p align="center">
-<img src="figures/Windows-19.PNG"  width="800px"/>
-</p>
-</div>
-
-<div>
-<p align="center">
-<img src="figures/Windows-20.PNG"  width="800px"/>
-</p>
-</div>
-
-2- Ahora, en la ventana de jupyter, busquen la carpeta que acaban de crear y seleccionen el archivo de extesion **ipynb**,
-este corresponde al **notebook** del tutorial.
-
-<div>
-<p align="center">
-<img src="figures/Windows-21.PNG"  width="800px"/>
-</p>
-</div>
-
-<div>
-<p align="center">
-<img src="figures/Windows-22.PNG"  width="800px"/>
-</p>
-</div>
 
