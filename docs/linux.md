@@ -9,11 +9,12 @@ Son nesecarios para que funcione el entorno visual del anaconda.
 
 Los siguientes comandos (2- a 4-) se ejecutan por unica vez:
 
-  2- Ejecutar el instalador: ```bash ~/Downloads/Anaconda3-2020.02-Linux-x86_64.sh```
+2- Ejecutar el instalador: ```bash ~/Downloads/Anaconda3-2020.02-Linux-x86_64.sh```
 
-  3- Refrescar las variables de entorno: ```source ~/.bashrc```
+3- Refrescar las variables de entorno: ```source ~/.bashrc```
 
-  4- Configurar conda para que no inicie cada vez que se abre una terminal: ```conda init && conda config --set auto_activate_base False```
+4- Configurar conda para que no inicie cada vez que se abre una terminal: ```conda init && conda config --set auto_activate_base False```
 
+---
 
 5- Abrir una terminal nueva y ejecutar: ```conda activate && anaconda-navigator```
