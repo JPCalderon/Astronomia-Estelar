@@ -14,7 +14,9 @@ Vamos a separar el procedimiento en dos etapas:
 
   Parte 1- Instalación de anaconda y paquetes que utilizaremos en las prácticas
   
-   * (Linux)[instalacion-linux.md]
-   * (Windows)[instalacion-windows.md]
+   * ![Linux](instalacion-linux.md)
+   * ![Windows](instalacion-windows.md)
 
   Parte 2- Prueba del tutorial inicial de la cátedra
+  
+   * ![Tutorial](instalacion-tutorial.md)
