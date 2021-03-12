@@ -89,7 +89,7 @@ Vamos a separar el procedimiento en dos etapas:
 
 <div>
 <p align="center">
-<img src="figures/Windows-11.PNG"  width="500px"/>
+<img src="figures/Windows-11.PNG"  width="800px"/>
 </p>
 </div>
 
