@@ -10,7 +10,7 @@ Esta parte de la instalación, si se hace mediante el **anaconda navigator**, es
 </p>
 </div>
 
-2- Creen un nuevo entorno usando el boton *create*, ubicado abajo a la izquierda. Pueden llamar al entorno **AEpracticas**:
+2- Creen un nuevo entorno usando el boton **create**, ubicado abajo a la izquierda. Pueden llamar al entorno **AEpracticas**:
 
 <div>
 <p align="center">
@@ -68,6 +68,8 @@ apliquen los cambios con el botón **apply**, ubicado abajo a la derecha:
 <img src="figures/Windows-16.PNG"  width="800px"/>
 </p>
 </div>
+
+7- Deberían ver lo siguiente en el navagador por defecto:
 
 <div>
 <p align="center">
